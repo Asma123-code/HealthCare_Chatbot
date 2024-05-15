@@ -19,3 +19,6 @@ The chatbot will analyze your input, generate responses, and display them in the
 You can view identified mental health entities, topics, sentiment, and topic modeling results in the chat interface.
 The chatbot will provide appropriate responses and suggestions based on your current mental health state.
 
+## Installation :arrow_down:
+* Create environment with your environ management tool, [Virtualenv][virtualenv] or [Conda][conda-env]
+* Install packages with pip using `pip install -r requirements.txt`
